@@ -1,0 +1,5 @@
+#Points/Student
+	100
+#Courses
+	CS367 Data_Structures 5
+	
